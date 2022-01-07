@@ -17,3 +17,39 @@ h1,h2,h3,h4,h5,h6 {
   font-family: "Patua One", serif;
   letter-spacing: 2px;
 }
+
+
+* {
+	border: 2px dashed goldenrod;
+}
+
+.container {
+	display: flex;
+}
+
+.fishContainer {
+	flex: 3;
+}
+
+.locationTravelContainer {
+	flex: 2;
+}
+
+.careContainer {
+	flex: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
